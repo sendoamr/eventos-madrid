@@ -1,2 +1,2 @@
 # eventos-madrid
-App in React native for show and find events in Madrid
+App in React native to show and find events in Madrid
