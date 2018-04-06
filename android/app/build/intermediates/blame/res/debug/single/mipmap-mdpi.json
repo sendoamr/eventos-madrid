@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/mschwarzmueller/development/teaching/youtube/share-places/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sendoamoronta/Escritorio/apps/react-native-by-example/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/sendoamoronta/Escritorio/apps/react-native-by-example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sendoamoronta/Escritorio/apps/eventos-madrid/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/sendoamoronta/Escritorio/apps/eventos-madrid/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
